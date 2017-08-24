@@ -1,0 +1,16 @@
+{
+  "name": "fccrequest-header-parser-api",
+  "version": "1.0.0",
+  "description": "Request Header Parser API Project for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunle Adeyinka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4"
+  }
+}
